@@ -12,7 +12,7 @@
 ## Usage
 ### Initial steps:
 - Git clone this repository Run: `git clone https://github.com/shrimantasatpati/Face-Emotion-Recognition-DeepFace-StreamLit.git`
-- Run: `cd Facial-Emotion-Recognition-using-OpenCV-and-Deepface`
+- Run: `Face-Emotion-Recognition-DeepFace-StreamLi`
 1. Install the required dependencies:
    - You can use `pip install -r requirements.txt`
    - Or you can install dependencies individually:
