@@ -18,14 +18,10 @@
    - Or you can install dependencies individually:
       - `pip install deepface`
       - `pip install opencv-python`
-
-2. Download the Haar cascade XML file for face detection:
-   - Visit the [OpenCV GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades) and download the `haarcascade_frontalface_default.xml` file.
-
 3. Run the code:
    - Execute the Python script.
    - The webcam will open, and real-time facial emotion detection will start.
-   - Emotion labels will be displayed on the frames around detected faces.
+   - Emotion labels will be displayed on the frames around detected faces. (Using the DeepFace extended models to predict age, emotions, gender and racial identity of the persons.)
 
 ## Approach
 
