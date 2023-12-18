@@ -34,9 +34,9 @@
 - Make predictions for the emotions using the pre-trained emotion detection model provided by the `deepface` library.
 - Retrieve the index of the predicted emotion and map it to the corresponding emotion label.
 - Draw a rectangle around the detected face and label it with the predicted emotion using `cv2.rectangle()` and `cv2.putText()`.
+- Display the resulting frame with the labeled emotion using `cv2.imshow()`.
+- If the 'q' key is pressed, exit the loop.
+- Release the video capture and close all windows using `cap.release()` and `cv2.destroyAllWindows()`.
 
-12. Display the resulting frame with the labeled emotion using `cv2.imshow()`.
-
-13. If the 'q' key is pressed, exit the loop.
-
-14. Release the video capture and close all windows using `cap.release()` and `cv2.destroyAllWindows()`.
+  ## StreamLit
+  - Local Deployment on StreamLit framework.
