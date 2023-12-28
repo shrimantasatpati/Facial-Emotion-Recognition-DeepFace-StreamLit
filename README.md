@@ -39,4 +39,4 @@
 - Release the video capture and close all windows using `cap.release()` and `cv2.destroyAllWindows()`.
 
   ## StreamLit
-  - Local Deployment on StreamLit framework.
+- Local Deployment on StreamLit framework.
