@@ -26,3 +26,7 @@
 
   ## StreamLit
 - Local Deployment on StreamLit framework.
+![Screenshot (48)](https://github.com/shrimantasatpati/Facial-Emotion-Recognition-DeepFace-StreamLit/assets/82357659/c30c4995-db9a-4f52-a462-19a67e096bb4)
+![Screenshot (49)](https://github.com/shrimantasatpati/Facial-Emotion-Recognition-DeepFace-StreamLit/assets/82357659/0b97ad33-49ad-47f7-8c9a-2247c718eb94)
+![Screenshot (50)](https://github.com/shrimantasatpati/Facial-Emotion-Recognition-DeepFace-StreamLit/assets/82357659/3d9bef66-bff2-44be-928c-90086737e2e0)
+
